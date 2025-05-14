@@ -63,3 +63,4 @@ C:\Users\welly\RiderProjects\EmployeeCrud\EmployeeCrud\obj\Debug\net9.0\refint\E
 C:\Users\welly\RiderProjects\EmployeeCrud\EmployeeCrud\obj\Debug\net9.0\EmployeeCrud.pdb
 C:\Users\welly\RiderProjects\EmployeeCrud\EmployeeCrud\obj\Debug\net9.0\EmployeeCrud.genruntimeconfig.cache
 C:\Users\welly\RiderProjects\EmployeeCrud\EmployeeCrud\obj\Debug\net9.0\ref\EmployeeCrud.dll
+C:\Users\welly\RiderProjects\EmployeeCrud\EmployeeCrud\obj\Debug\net9.0\EmployeeCrud.sourcelink.json

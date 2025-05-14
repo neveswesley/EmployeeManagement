@@ -5,11 +5,11 @@ using Microsoft.Data.SqlClient;
 
 namespace EmployeeCrud.Repository;
 
-public class Repository
+public class RepositoryEmployee
 {
     private readonly SqlConnection _connection;
 
-    public Repository(SqlConnection connection)
+    public RepositoryEmployee(SqlConnection connection)
     {
         _connection = connection;
     }

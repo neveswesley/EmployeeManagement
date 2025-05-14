@@ -3,4 +3,4 @@
 using EmployeeCrud.UI;
 
 var userMenu = new UserMenu();
-userMenu.MainMenu();
+userMenu.UserMenuMain();
